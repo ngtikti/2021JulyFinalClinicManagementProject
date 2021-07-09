@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.ConsultationDetail>
+
+@{
+    ViewData["Title"] = "Admin Manage Patient";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+</head>
+<body>
+
+
+
+
+
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Patient Name</th>
+                <th scope="col">Consultation Status</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@Html.DisplayFor(model => item.Consultation_Date)</th>
+                    <td> @Html.DisplayFor(model => item.Patient.Name) </td>
+                    <td> @Html.DisplayFor(model => item.Consultation_Status) </td>
+                    <td>
+                        <p>@Html.ActionLink("View Patient", "PatAllCon", new { patid = item.Patient_Id })</p>
+                        <p>@Html.ActionLink("Complete Payment", "PatPaidPass", new { conid = item.Consultation_Id })</p>
+                    </td>
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+    <section>
+        @*@Html.ActionLink("Book Appointment", "BookAppointment", new { str = Model.Username })*@
+
+        <p>@Html.ActionLink("Back to Main Page", "PatMain")</p>
+
+
+
+    </section>
+</body>
+
+</html> 

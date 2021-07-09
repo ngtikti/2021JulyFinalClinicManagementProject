@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+    <style>
+        #main {
+            text-align: center;
+        }
+
+        #loginSection {
+            width: 300px;
+        }
+    </style>
+    <title>@ViewBag.Title</title>
+
+</head>
+
+<body>
+    <div>
+        <div>
+            <h1 id="main" class="alert alert-success">CLINIC MANAGEMENT</h1>
+            <section id="loginSection"></section>
+
+        </div>
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            @Html.ActionLink("Home Page", "Index", "Home", null, new { @class = "nav-link" })
+                        </li>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                        <li class="navbar-expand">Sign In As</li>&nbsp;
+                        <li class="nav-item">
+                            @Html.ActionLink(" | Doctor | ", "Login", "Doctor", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink(" | Patient | ", "Login", "Patient", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink(" | Admin | ", "Login", "Admin", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="navbar-expand">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("About our Doctors", "AboutUs", "Doctor", null, new { @class = "nav-link" })
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+
+    </div>
+</body>
+</html>

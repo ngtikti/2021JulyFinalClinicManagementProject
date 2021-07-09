@@ -1,0 +1,80 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.DoctorSchedule>
+
+
+@{
+    ViewData["Title"] = "Admin: Doctor Schedule";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+</head>
+<body>
+    <h1 id="main" class="alert alert-success">Doctor Schedule</h1>
+
+    @if (Model.Count() != 0)
+    {
+        <table class="table" style="width:500px;">
+            <thead>
+                <tr>
+
+                    <th class="thead-dark">
+                        @Html.DisplayNameFor(model => model.Time)
+                    </th>
+
+                    <th>Status</th>
+                    <th>Patient Name</th>
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Time)
+                        </td>
+
+
+                        @if (item.Patient_Id == null)
+                        {
+                            <td><p>Empty</p></td>
+                            <td><p>-</p></td>
+                        }
+                        @if (item.Patient_Id != null)
+                        {
+                            <td><p>Booked</p></td>
+
+                            <td>@Html.DisplayFor(modelItem => item.Patient.Name)</td>
+                        }
+                        @*@Html.ActionLink("Book", "BookSlotForPatient", new { timeid = item.Timeslot_Id, docid = item.Doctor_Id })*@
+
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+
+    @if (Model.Count() == 0)
+    {
+        <section class="alert alert-danger">
+
+            @ViewBag.Message
+            @Html.ActionLink("here", "DocAddTimeSlot", "Admin", new { docid = TempData.Peek("DocId") })
+        </section>
+       }
+    <section>
+        @*@Html.ActionLink("Book Appointment", "BookAppointment", new { str = Model.Username })*@
+
+        <p>@Html.ActionLink("Back", "DocMain")</p>
+
+
+
+    </section>
+</body>
+</html>

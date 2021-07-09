@@ -1,0 +1,14 @@
+﻿@model ClinicManagementProject.Models.Doctor
+@*@{Layout = "~/views/Doctor/_Layout.cshtml";}*@
+@{Layout = "~/views/Doctor/_DoctorLayout.cshtml";}
+
+<body>
+    <section class="alert alert-success">
+        Welcome Doctor  @ViewData["Message"]
+
+    </section>
+    <section>
+        @Html.ActionLink("View Scheduled ", "ViewDoctor_Schedule", new { consDocId = Model.Doctor_Id },new { @class = "btn btn-outline-info" })
+    </section>
+</body>
+

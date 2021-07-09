@@ -1,0 +1,898 @@
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.AssemblyReference.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\Login.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\PatientConsole.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\_PatientLayout.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\Day 18\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.AssemblyReference.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\Login.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\PatientConsole.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Patient\_PatientLayout.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\ClinicManagementProject\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.Development.json
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.json
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Humanizer.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\Login.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\PatientConsole.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\Register.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\_PatientLayout.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment_Schedule.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Login.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Register.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\DoctorConsole.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\_DoctorLayout.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ViewDoctor_Schedule.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookSlotForPatient.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ConsultationDetail.cshtml.g.cs
+C:\CollaberaTraining\ClinicManagementProject-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ConsultationUpdate.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\AboutUs.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ConsultationDetail.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ConsultationUpdate.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\DoctorConsole.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Login.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Register.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\ViewDoctor_Schedule.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\_DoctorLayout.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookAppointment_Schedule.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\BookSlotForPatient.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\Login.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\PatientConsole.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\Register.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Patient\_PatientLayout.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.Development.json
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.json
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Humanizer.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\log4net.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\CollaberaTraining\CollaberaTraining\FinalProject\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.AssemblyReference.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.json
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\log4net.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.AssemblyReference.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Create.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Edit.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.Development.json
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\appsettings.json
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.exe
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.deps.json
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.json
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.runtimeconfig.dev.json
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Humanizer.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\log4net.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfoInputs.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.AssemblyInfo.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CoreCompileInputs.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorAssemblyInfo.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.Manifest.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\staticwebassets\ClinicManagementProject.StaticWebAssets.xml
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\scopedcss\bundle\ClinicManagementProject.styles.css
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.input.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.TagHelpers.output.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorCoreGenerate.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Create.cshtml.g.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Edit.cshtml.g.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.RazorTargetAssemblyInfo.cs
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.Views.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.CopyComplete
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ref\ClinicManagementProject.dll
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.pdb
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.genruntimeconfig.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\ClinicManagementProject.csproj.AssemblyReference.cache
+C:\CollaberaTraining\July05Tim\Mona\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ngtik\Dropbox\dotnet Work\MVCWebAPI-main\ClinicManagementProject-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs

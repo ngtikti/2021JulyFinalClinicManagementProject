@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.Doctor>
+
+
+@{
+    ViewData["Title"] = "Admin Manage Doctor";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+</head>
+<body>
+
+
+
+
+    <div style="height: 500px; overflow: auto;">
+        <table class="table table-sm">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Doctor Name</th>
+                    <th scope="col">Doctor Phone#</th>
+                    <th scope="col">-</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+    <tr>
+        <th scope="row">@Html.DisplayFor(model => item.Doctor_Id)</th>
+        <td> @Html.DisplayFor(model => item.Name) </td>
+        <td> @Html.DisplayFor(model => item.Phone) </td>
+        <td>
+            <p>@Html.ActionLink("View Schedule", "DocViewSchedule", new { docid = item.Doctor_Id })</p>
+            @*<p>@Html.ActionLink("Edit Account", "DocEditAccount", new { docid = item.Doctor_Id })</p>*@
+            <p>@Html.ActionLink("Add Timeslots", "DocAddTimeSlot", new { docid = item.Doctor_Id })</p>
+        </td>
+    </tr>            }
+
+            </tbody>
+        </table>
+        </div>
+        <section>
+            @*@Html.ActionLink("Book Appointment", "BookAppointment", new { str = Model.Username })*@
+
+            <p>@Html.ActionLink("Register New Doctor", "DocRegNew")</p>
+
+
+
+        </section>
+</body>
+
+</html> 

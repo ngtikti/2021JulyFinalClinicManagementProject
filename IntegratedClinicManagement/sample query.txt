@@ -1,0 +1,13 @@
+delete from [dbo].[ConsultationDetails]
+delete from [dbo].[DoctorSchedules]
+delete from [dbo].[Admins]
+delete from [dbo].[Patients]
+delete from [dbo].[Doctors]
+
+select * from [dbo].[Admins]
+select * from [dbo].[Doctors]
+select * from [dbo].[Patients]
+
+INSERT INTO [dbo].[Admins](Username, Name) VALUES ('Admin', 'Admin Overlord');
+INSERT INTO [dbo].[Doctors] (Username, Name, Gender, Age, Phone, Specialization) VALUES ('Doctor', 'Johnathan', 'Male', '36', '87612432', 'General');
+INSERT INTO [dbo].[Patients] (Username, Name, Gender, Age, Phone) VALUES ('Patient', 'Jenny', 'Female', '32', '91827293');

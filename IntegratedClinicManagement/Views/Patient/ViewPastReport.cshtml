@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.ConsultationDetail>
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewPastReport</title>
+</head>
+<body>
+
+    <table class="table">
+        <thead>
+            <tr>
+
+                <th>
+                    Doctor Name
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Timeslot)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Consultation_Remarks)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Timeslot)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Consultation_Remarks)
+    </td>
+</tr>
+       }
+        </tbody>
+    </table>
+    <section>
+        @Html.ActionLink("Return to Main Page", "PatientConsole", "Patient")
+    </section>
+</body>
+</html>

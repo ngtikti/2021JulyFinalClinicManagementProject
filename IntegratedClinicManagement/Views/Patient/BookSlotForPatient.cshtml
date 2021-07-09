@@ -1,0 +1,53 @@
+﻿@model ClinicManagementProject.Models.DoctorSchedule
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BookSlotForPatient</title>
+</head>
+<body>
+
+    <div>
+        <h4>DoctorSchedule</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Doctor)
+            </dt>
+            <dd class="col-sm-10">
+                @ViewData["DoctorName"]
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Time)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Time)
+            </dd>
+
+
+        </dl>
+    </div>
+    <div>
+        Would you like to book?
+        <br />
+        @*@Html.ActionLink("Book Slot", "BookSlotForPatient", FormMethod.Post)*@
+        @using (Html.BeginForm("BookSlotForPatient", "Patient", FormMethod.Post))
+        {
+<button formaction="BookSlotForPatient">Book Slot</button>}
+
+
+
+
+
+        |  @Html.ActionLink("Return to Main Page", "PatientConsole", "Patient")
+
+
+
+
+    </div>
+    <br />
+    <section class="alert alert-danger">
+        @ViewData["Message"]
+    </section>
+</body>
+</html>

@@ -1,0 +1,112 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.ConsultationDetail>
+
+@{
+    ViewData["Title"] = "View All Patient";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <title>Patient Registration</title>
+    <style>
+        form {
+            width: 300px;
+        }
+    </style>
+    <script>//function passwordCheck() {
+                //    var pass = document.getElementById("Password").value;
+                //    var repass = document.getElementById("txtReType").value;
+                //    if (pass != repass)
+                //        alert("Password Mismatch");
+                //}</script>
+</head>
+<body>
+
+    <h1 id="main" class="alert alert-success">Patient Directory</h1>
+    <hr />
+    <div>@Html.ActionLink("Search Patient", "PatSearchAll", "Admin")</div>
+
+    <div style="height: 500px; overflow: auto;">
+        <table class="table table-sm">
+            <thead>
+                <tr>
+                    <th scope="col">Patient Name</th>
+                    <th scope="col">Consultation Date</th>
+                    <th scope="col">Time Slot</th>
+                    <th scope="col">Doctor Name</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Bill</th>
+                    <th scope="col">Doctor's Remark</th>
+                    <th scope="col">-</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @Html.DisplayFor(model => item.Patient.Name) </td>
+                        @if (item.Consultation_Date != null)
+                        {
+                            <td> @Html.DisplayFor(model => item.Consultation_Date, "{dd-MM-yyyy}") </td>
+                        }
+                        @if (item.Consultation_Date == null)
+                        {
+                            <td>Not Booked</td>
+                        }
+                        @if (item.Timeslot != null)
+                        {
+                            <td> @Html.DisplayFor(model => item.Timeslot) </td>
+
+                        }
+                        @if (item.Timeslot == null)
+                        {
+                            <td>Not Booked</td>
+                        }
+                        <td> @Html.DisplayFor(model => item.Doctor.Name) </td>
+                        <td> @Html.DisplayFor(model => item.Consultation_Status) </td>
+                        @if (item.Bill != null)
+                        {
+                            <td> @Html.DisplayFor(model => item.Bill) </td>
+
+                        }
+                        @if (item.Bill == null)
+                        {
+                            <td>Not Billed Yet</td>
+                        }
+                        <td> @Html.TextAreaFor(model => item.Consultation_Remarks, new { @readonly = true }) </td>
+
+                        <td>
+                            @*<p>@Html.ActionLink("View Consultations", "PatCon", new { conid = item.Consultation_Id })</p>*@
+                            @if (item.Bill != null && item.Consultation_Status.ToLower() == "pending payment")
+                            {
+                                
+                                <p>@Html.ActionLink("Make Payment", "PatPaidAllPass", new { conid = item.Consultation_Id , patiid = item.Patient_Id })</p>
+                                
+                            }
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <section>
+        @Html.ActionLink("Back", "PatViewAll", "Admin")
+        
+    </section>
+    <section class="alert alert-danger">
+        @ViewBag.Message
+    </section>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

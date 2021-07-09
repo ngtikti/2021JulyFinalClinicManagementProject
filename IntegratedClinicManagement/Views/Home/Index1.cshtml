@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Clinic Management</title>
+    <link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h2 class="alert alert-success">
+        Welcome to Clinic Management
+    </h2>
+    <h4>
+        Please log in:
+    </h4>
+    <section>
+        @Html.ActionLink("As Patient", "Login", "Patient")
+        <br />
+        @Html.ActionLink("As Doctor", "Login", "Doctor")
+        <br />
+        @Html.ActionLink("As Admin", "Login", "Admin")
+    </section>
+    
+</body>
+</html>

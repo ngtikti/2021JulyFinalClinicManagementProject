@@ -1,0 +1,41 @@
+﻿@model ClinicManagementProject.Models.DoctorScheduleViewModel
+
+
+@{
+    ViewData["Title"] = "Admin: Doctor Schedule";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+</head>
+<body>
+   
+    <h1 id="main" class="alert alert-success">Add Schedule Time</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            @using (Html.BeginForm("DocAddTimeSlot", "Admin", FormMethod.Post))
+            {
+                
+                @Html.LabelFor(m => m.EnteredTime, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.EnteredTime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(m => m.EnteredTime, "", new { @class = "text-danger" })
+
+                <button class="btn btn-primary">Add Schedule </button>
+                @*@Html.TextBox("sub_button","Add Schedule", new {docid = Model.Doctor_Id, type="submit"})*@
+            }
+        </div>
+    </div>
+
+    <section>
+        @*@Html.ActionLink("Book Appointment", "BookAppointment", new { str = Model.Username })*@
+
+        <p>@Html.ActionLink("Back", "DocMain")</p>
+
+
+
+    </section>
+</body>
+</html>

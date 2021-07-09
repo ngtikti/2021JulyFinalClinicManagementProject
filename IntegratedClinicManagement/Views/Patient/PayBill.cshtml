@@ -1,0 +1,56 @@
+﻿@model ClinicManagementProject.Models.ConsultationDetail
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+
+<meta name="viewport" content="width=device-width" />
+<title>PayBill</title>
+
+<body>
+
+    <div>
+        <h4>ConsultationDetail</h4>
+        <hr />
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                Doctor Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Doctor.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Consultation_Date)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Consultation_Date)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Consultation_Remarks)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Consultation_Remarks)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Bill)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Bill)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        Would you like to pay?
+        <br />
+        @*@Html.ActionLink("Book Slot", "BookSlotForPatient", FormMethod.Post)*@
+        @using (Html.BeginForm("PayBill", "Patient", FormMethod.Post))
+        {
+<button formaction="PayBill">Pay Bill</button>}
+
+
+
+
+
+        |  @Html.ActionLink("Return to Main Page", "PatientConsole", "Patient")
+    </div>
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.Patient>
+
+@{
+    ViewData["Title"] = "View All Patient";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <title>Patient Registration</title>
+    <style>
+        form {
+            width: 300px;
+        }
+    </style>
+    <script>//function passwordCheck() {
+                //    var pass = document.getElementById("Password").value;
+                //    var repass = document.getElementById("txtReType").value;
+                //    if (pass != repass)
+                //        alert("Password Mismatch");
+                //}</script>
+</head>
+<body>
+
+    <h1 id="main" class="alert alert-success">Patient Directory</h1>
+    <hr />
+    <div>@Html.ActionLink("Search Patient", "PatSearchAll", "Admin")</div>
+
+
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Patient Name</th>
+                <th scope="col">Age</th>
+                <th scope="col">Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@Html.DisplayFor(model => item.Patient_Id)</th>
+                    <td> @Html.DisplayFor(model => item.Name) </td>
+                    <td> @Html.DisplayFor(model => item.Age) </td>
+                    <td> @Html.DisplayFor(model => item.Phone) </td>
+                    <td>
+                        <p>@Html.ActionLink("View All Consultations", "PatAllCon", new { patid = item.Patient_Id })</p>
+                    </td>
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+
+
+    <section class="alert alert-danger">
+        @ViewBag.Message
+    </section>
+    <section>
+        @Html.ActionLink("Back to Main Page", "PatMain", "Admin")
+    </section>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

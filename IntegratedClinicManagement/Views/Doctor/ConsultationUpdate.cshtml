@@ -1,0 +1,142 @@
+﻿@model ClinicManagementProject.Models.ConsultationDetail
+
+@{Layout = "~/views/Doctor/_DoctorLayout.cshtml";}
+
+<body>
+
+    <h4>Consultation Detail</h4>
+    <hr />
+    @{ if (Model == null)
+        {
+<section class="alert-danger">
+    @ViewData["Message"]
+
+    <br><a href="ViewDoctor_Schedule?consDocId =@ViewData["docId"]">Back to Doctor's Schedule</a>
+
+</section> }
+else
+{
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ConsultationUpdate" name="ConsultationUpdate" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Consultation_Id" name="consId" value="@Model.Consultation_Id" />
+            <input type="hidden" asp-for="Patient_Id" name="consPatId" value="@Model.Patient_Id" />
+            <input type="hidden" asp-for="Doctor_Id" name="consDocId" value="@Model.Doctor_Id" />
+            <input type="hidden" asp-for="Consultation_Date" name="consDate" value="@Model.Consultation_Date" />
+            <input type="hidden" asp-for="Timeslot" name="consTime" value="@Model.Timeslot" />
+
+            <table class="table-light">
+                <tr>
+                    <td class="text-dark">
+                        <label asp-for="Patient" class="control-label">Patient Name</label>
+                    </td>
+                    <td>
+                        <input asp-for="Patient" class="form-label" disabled value="@Model.Patient.Name" />
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Doctor" class="control-label">Doctor</label>
+                    </td>
+                    <td>
+                        <input asp-for="Doctor" class="form-label" disabled value="@Model.Doctor.Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Date" class="control-label">Consultation Date</label>
+                    </td>
+                    <td>
+                        <input asp-for="Consultation_Date" class="form-label" type="date" value="@Model.Consultation_Date" />
+                        <span asp-validation-for="Consultation_Date" class="text-danger"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Date" class="control-label">Time Slot</label>
+                    </td>
+                    <td>
+                        <input asp-for="Timeslot" class="form-control" disabled value="@Model.Timeslot" />
+                        <span asp-validation-for="Timeslot" class="text-danger"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Consultation_Remarks" class="control-label">Consultation Remark</label>
+                    </td>
+                    <td>
+                        <textarea asp-for="Consultation_Remarks" name="consRemarks" id="consRemarks" required class="form-control-lg">@Model.Consultation_Remarks</textarea>
+                        <span asp-validation-for="Consultation_Remarks" class="text-danger"></span>
+                      
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Consultation_Status" class="control-label">Consultation Status</label>
+                    </td>
+                    <td>
+                        <select asp-for="Consultation_Status" name="consStatus" class="form-select">
+                            <option value="@Model.Consultation_Status">@Model.Consultation_Status</option>
+                            <option value="Pending Payment">Pending Payment</option>
+                            <option value="Closed">Closed</option>
+                        </select>
+                        <span asp-validation-for="Consultation_Status" class="text-danger"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Bill" class="control-label">Bill Amount</label>
+                    </td>
+                    <td>
+                        <input asp-for="Bill" class="form-control" name="consBill" value="@Model.Bill" />
+                        <span asp-validation-for="Bill" class="text-danger"></span>
+                    </td>
+                </tr>
+            </table>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                @Html.ActionLink("Back to Schedule ", "ViewDoctor_Schedule", new { consDocId = Model.Doctor.Doctor_Id })
+            </div>
+        </form>
+    </div>
+</div>
+                <hr />
+                                <Section class="alert-info">@ViewData["Message"]</Section>
+                                                <hr /> var patientHistory = ViewBag.ConsHistory;
+                                                int patID = @Model.Patient_Id;
+                                                string docName = "";
+
+                                <table class="table table-light" width="80%">
+                                    <thead class="thead-dark"><b>Consultation History for @Model.Patient.Name</b></thead>
+                                    <tr>
+                                        <td class="thead-light"><b>Consultation Date</b></td>
+                                        <td class="thead-light"><b>Doctor Name</b></td>
+                                        <td class="thead-light"><b>Consultation Detail</b></td>
+                                    </tr>
+
+                                    @for (int i = 0; i < patientHistory.Count; i++)
+                                    {
+                                        if (patientHistory[i].Patient_Id == patID)
+                                        {
+                                            if (@patientHistory[i].Doctor == null)
+                                                docName = "Doctor not mentioned";
+                                            else
+                                                docName = @patientHistory[i].Doctor.Name;
+
+                    <tr>
+                        <td>@patientHistory[i].Consultation_Date</td>
+                        <td>@docName</td>
+                        <td>@patientHistory[i].Consultation_Remarks</td>
+                    </tr>}
+
+                                    }
+
+                                </table> } }
+
+    @*section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }*@
+</body>
+</html>

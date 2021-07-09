@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.Patient>
+
+@{
+    ViewData["Title"] = "Admin Manage Patient";
+    Layout = "~/Views/Admin/_AdminLayout.cshtml";
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+
+    <h1 id="main" class="alert alert-success">Patient Directory</h1>
+    <div class="d-flex justify-content-center">
+        <p>@Html.ActionLink("Search a Patient", "PatSearchAll", new { str = Model }, new { @class = "btn btn-outline-info" })</p>
+        &nbsp &nbsp &nbsp
+        <p>@Html.ActionLink("Pending Payment Tickets", "PatPayment", new { str = Model }, new { @class = "btn btn-outline-info" })</p>
+        &nbsp &nbsp &nbsp
+        <p>@Html.ActionLink("Register New Patient", "PatRegNew", new { str = Model }, new { @class = "btn btn-outline-info" })</p>
+    </div>
+</body>
+
+</html> 

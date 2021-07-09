@@ -1,0 +1,35 @@
+﻿@model ClinicManagementProject.Models.DoctorViewModel
+@{Layout = "~/views/Doctor/_Layout.cshtml";}
+
+<html>
+<head>
+    <style>
+        form {
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="main" class="alert alert-success" align="left">Doctor Login</h1>
+    <div class="row">
+        <div class="col-md-4" align="center" style="margin-left:auto;margin-right:auto">
+            @using (Html.BeginForm("Login", "Doctor", FormMethod.Post))
+            {
+                @Html.LabelFor(m => m.Username, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Username, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.LabelFor(m => m.EnteredPassword, htmlAttributes: new { @class = "form-control" })
+                @Html.PasswordFor(m => m.EnteredPassword, htmlAttributes: new { @class = "form-control" })
+                <button class="btn btn-success">Login</button>
+            }
+        </div>
+    </div>
+    <section align="center">
+        @Html.ActionLink("Register a new Doctor account", "Register")
+    </section>
+    <section class="alert alert-danger">
+        @ViewData["Message"]
+    </section>
+
+</body>
+
+</html> 

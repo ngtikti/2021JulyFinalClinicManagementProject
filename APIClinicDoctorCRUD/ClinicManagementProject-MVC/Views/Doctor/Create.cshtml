@@ -1,0 +1,53 @@
+﻿@model ClinicManagementProject.Models.Doctor
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+    <title>Create</title>
+</head>
+<body>
+
+    <h4>Doctor</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            @using (Html.BeginForm("Create", "Doctor", FormMethod.Post))
+            {
+                @Html.LabelFor(m => m.Username, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Username, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.LabelFor(m => m.Name, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.LabelFor(m => m.Gender, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Gender, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.LabelFor(m => m.Age, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Age, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.LabelFor(m => m.Phone, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Phone, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.LabelFor(m => m.Specialization, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Specialization, new { htmlAttributes = new { @class = "form-control" } })
+                <input type="submit" value="Add Doctor" class="btn btn-primary" />
+            }
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("View Doctor List", "Index", "Doctor")
+    </div>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

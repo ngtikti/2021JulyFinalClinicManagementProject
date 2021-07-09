@@ -1,0 +1,88 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.Doctor>
+
+@{Layout = "~/views/Doctor/_Layout.cshtml";}
+
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color:darkgrey;
+    }
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+<body>
+    <table class="table table-light table-bordered" width="100%" height="80%">
+        <tr>
+            <td>
+                <div style="top:0px; border:1px solid red;">
+                    <table border="0" align="center">
+                        <tr height="100%">
+                            <td height="70%" width="50%" valign="middle" align="center">
+                                <h1 align="center">WELCOME TO FAMILY CLINIC </h1><br /> <h3 align="center">Your Health is Paramount to us</h3>
+                            </td>
+
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <h2 id="main" class="alert alert-success">Our Doctors</h2>
+    <br />
+
+    <table>
+        <thead>
+            <tr>
+                <th width="25%">
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th width="15%">
+                    @Html.DisplayNameFor(model => model.Gender)
+                </th>
+                <th width="15%">
+                    @Html.DisplayNameFor(model => model.Age)
+                </th>
+                <th width="45%">
+                    @Html.DisplayNameFor(model => model.Specialization)
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+<tr>
+    <td width="20%">
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td width="10%">
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td width="10%">
+        @Html.DisplayFor(modelItem => item.Age)
+    </td>
+    <td width="60%">
+        <p>
+            @Html.DisplayFor(modelItem => item.Specialization)
+        </p>
+    </td>
+</tr>
+       }
+        </tbody>
+    </table>
+</body>
+</html>

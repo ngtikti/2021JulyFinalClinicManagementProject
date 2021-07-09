@@ -1,0 +1,38 @@
+﻿@model ClinicManagementProject.Models.Patient
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <section class="alert alert-success">
+        @ViewData["Message"]
+    </section>
+    <div class="d-flex justify-content-center">
+
+        @Html.ActionLink("Book Appointment", "BookAppointment", new { str = Model.Username }, new { @class = "btn btn-outline-info" })
+        &nbsp &nbsp &nbsp
+        @Html.ActionLink("View Upcoming Appointments", "ViewBookedAppointments", new { hi = Model.Username }, new { @class = "btn btn-outline-info" })
+        &nbsp &nbsp &nbsp
+        @Html.ActionLink("View Past Reports", "ViewPastReport", new { hi = Model.Username }, new { @class = "btn btn-outline-info" })
+    </div>
+    <br />
+    <div class="d-flex justify-content-center">
+        @Html.ActionLink("Pay Outstanding Bills", "PendingPaymentList", new { hi = Model.Username }, new { @class = "btn btn-outline-info" })
+        &nbsp &nbsp &nbsp
+        @Html.ActionLink("Update Particulars", "UpdateParticulars", new { hi = Model.Username }, new { @class = "btn btn-outline-info" })
+        &nbsp &nbsp &nbsp
+        @Html.ActionLink("Change Password", "ChangePassword", new { hi = Model.Username }, new { @class = "btn btn-outline-info" })
+    </div>
+    <section class="alert alert-danger">
+        @ViewData["BookingMessage"]
+        @ViewData["DeleteBookingMessage"]
+        @ViewData["PaidBillMessage"]
+        @ViewData["ParticularsUpdateMessage"]
+        @ViewData["ChangePasswordMessage"]
+    </section>
+</body>
+
+</html> 

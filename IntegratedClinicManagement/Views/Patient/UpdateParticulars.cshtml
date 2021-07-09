@@ -1,0 +1,23 @@
+﻿@model ClinicManagementProject.Models.Patient
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+
+<title> Update Particulars</title>
+<link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+
+<body>
+    <div>
+        @using (Html.BeginForm("UpdateParticulars", "Patient", FormMethod.Post))
+        {
+        @Html.LabelFor(m => m.Username, htmlAttributes: new { @class = "form-control" })
+        @Html.DisplayFor(m => m.Username);
+        @Html.LabelFor(m => m.Name, htmlAttributes: new { @class = "form-control" })
+        @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.LabelFor(m => m.Phone, htmlAttributes: new { @class = "form-control" })
+        @Html.EditorFor(m => m.Phone, new { htmlAttributes = new { @class = "form-control" } })
+        <button class="btn btn-primary">Update Particulars</button> @*<button class="btn btn-warning">Reset</button>*@}
+        <br />
+        @Html.ActionLink("Return to Main Page", "PatientConsole", "Patient")
+    </div>
+</body>
+</html>

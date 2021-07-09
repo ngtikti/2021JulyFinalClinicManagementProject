@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ClinicManagementProject.Models.ConsultationDetail>
+
+@{Layout = "~/views/Patient/_PatientLayout.cshtml";}
+
+<meta name="viewport" content="width=device-width" />
+<title>PendingPaymentList</title>
+<body>
+
+    <table class="table">
+        <thead>
+            <tr>
+
+                <th>
+                    Doctor Name
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Consultation_Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Consultation_Remarks)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Bill)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.Name)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Consultation_Date)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Consultation_Remarks)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Bill)
+    </td>
+    <td>
+        @Html.ActionLink("Pay Bill", "PayBill", "Patient", new { consultationid = item.Consultation_Id })
+    </td>
+</tr>
+}
+        </tbody>
+    </table>
+    <section>
+        @Html.ActionLink("Return to Main Page", "PatientConsole", "Patient")
+    </section>
+</body>
+</html>

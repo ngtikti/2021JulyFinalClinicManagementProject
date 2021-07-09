@@ -1,0 +1,78 @@
+﻿@model ClinicManagementProject.Models.DoctorViewModel
+
+@*@{Layout = "~/views/Doctor/_Layout.cshtml";}*@
+
+<meta name="viewport" content="width=device-width" />
+<link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+<title>Register</title>
+<style>
+    form {
+        width: 300px;
+    }
+</style>
+<script>
+        //function passwordCheck() {
+        //    var pass = document.getElementById("Password").value;
+        //    var repass = document.getElementById("txtReType").value;
+        //    if (pass != repass)
+        //        alert("Password Mismatch");
+        //}
+</script>
+
+<body>
+
+    <h1 id="main" class="alert alert-danger">Register Account</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            @using (Html.BeginForm("Register", "Doctor", FormMethod.Post))
+            {
+@Html.LabelFor(m => m.Username, htmlAttributes: new { @class = "form-control" })
+                @Html.EditorFor(m => m.Username, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(m => m.Username, "", new { @class = "text-danger" })
+
+
+                                                @Html.LabelFor(m => m.EnteredPassword, htmlAttributes: new { @class = "form-control" })
+                                                                @Html.PasswordFor(m => m.EnteredPassword, htmlAttributes: new { @class = "form-control" })
+                                                                                @Html.ValidationMessageFor(m => m.EnteredPassword, "", new { @class = "text-danger" }) @*<label class="form-control">@ViewBag.RetypePassword</label>
+                                                                                    <input type="password" value=@ViewBag.RetypePassword class="form-control" id="txtReType" onblur="passwordCheck()" />*@
+
+                                                                                                @Html.LabelFor(m => m.RetypeEnteredPassword, htmlAttributes: new { @class = "form-control" })
+                                                                                                                @Html.PasswordFor(m => m.RetypeEnteredPassword, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                @Html.ValidationMessageFor(m => m.RetypeEnteredPassword, "", new { @class = "text-danger" })
+
+                                                                                                                                                @Html.LabelFor(m => m.Name, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                                                @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                                                                                                                                                                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+
+
+                                                                                                                                                                                                @Html.LabelFor(m => m.Age, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                                                                                                @Html.EditorFor(m => m.Age, new { htmlAttributes = new { @class = "form-control" } })
+
+                                                                                                                                                                                                                                @Html.LabelFor(m => m.Gender, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                                                                                                                                @Html.EditorFor(m => m.Gender, new { htmlAttributes = new { @class = "form-control" } })
+                                                                                                                                                                                                                                                                @Html.ValidationMessageFor(m => m.Gender, "", new { @class = "text-danger" })
+
+
+                                                                                                                                                                                                                                                                                @Html.LabelFor(m => m.Phone, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                                                                                                                                                                                @Html.EditorFor(m => m.Phone, new { htmlAttributes = new { @class = "form-control" } })
+
+                                                                                                                                                                                                                                                                                                                @Html.LabelFor(m => m.Specialization, htmlAttributes: new { @class = "form-control" })
+                                                                                                                                                                                                                                                                                                                                @Html.EditorFor(m => m.Specialization, new { htmlAttributes = new { @class = "form-control" } })
+
+
+                                                                                                                                                                                                                                                                                                                                                <button class="btn btn-primary">Create Account</button>}
+        </div>
+    </div>
+    <section>
+        @Html.ActionLink("Back to Login", "Login")
+    </section>
+    <section class="alert alert-danger">
+        @ViewBag.Message
+    </section>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>
